@@ -1,0 +1,13 @@
+**/bin/
+**/obj/
+**/_ReSharper.*/
+**/packages/
+**/Service References/
+**/Info/lenta.ru/UkrGlory/
+**/LinkService.Publish.xml
+*.exe
+*.zip
+*.user
+*.suo
+*.svclog
+BuildChrome.bat
