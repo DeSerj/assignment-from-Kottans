@@ -94,6 +94,7 @@ namespace CommandParser
 
             if (currentCommand != null)
                 currentCommand.Execute();
+            
         }
 
         private static void PrintInvalidCommand(string command)
